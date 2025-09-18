@@ -1,9 +1,9 @@
-<a href="https://ai-sdk-starter-xai.vercel.app">
-  <h1 align="center">Vercel x xAI Chatbot</h1>
+<a href="https://ai-train-traffic-control.app">
+  <h1 align="center">Ai-Train traffic control </h1>
 </a>
 
 <p align="center">
-  An open-source AI chatbot app template built with Next.js, the AI SDK by Vercel, and xAI.
+  An open-source AI Train Traffic Control app template build
 </p>
 
 <p align="center">
