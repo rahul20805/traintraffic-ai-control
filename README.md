@@ -40,7 +40,7 @@ You can deploy your own version to Vercel platform by clicking the button below:
    pnpm install
    ```
 
-2. Install the App(https://vercel.com/docs/cl):
+2. Install the App:
 
    ```bash
    npm i -g vercel
